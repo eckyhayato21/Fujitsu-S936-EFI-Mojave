@@ -1,4 +1,4 @@
-# Fujitsu-EFI-Mojave
+# Fujitsu-S936-EFI-Mojave
 Here my EFI Configuration for
 
 FUJITSU S936 / M
