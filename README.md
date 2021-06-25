@@ -38,7 +38,7 @@ What's Not Working and Not tested yet
 - Fingerprint
 
 EFI Folder :
-- <a href"https://drive.google.com/file/d/18GI8pdItJ82WrnPGolAdc3CToPBEJNst/view?usp=sharing">EFI Clover</a>
+- <a href="https://drive.google.com/file/d/18GI8pdItJ82WrnPGolAdc3CToPBEJNst/view?usp=sharing">EFI Clover</a>
 
 References & Credits :
 - <a href="http://google.co.id">Your Master of Knowledge</a>
