@@ -38,4 +38,4 @@ What's Not Working and Not tested yet
 - Fingerprint
 
 
-<URL>google.com</URL>
+<a href="http://google.co.id">GOOGLE</a>
