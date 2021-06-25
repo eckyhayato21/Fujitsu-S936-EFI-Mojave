@@ -8,12 +8,11 @@ Technical Specs :
 - iGPU : Intel HD Graphics 520
 - Wireless : Intel 8260
 - Audio : Realtek ALC255
-- 13.3 LED @ 1920x1080
-- RAM 12GB (4GB onboard + 8GB on slot)
-- SSD M2 128GB
-- BIOS H20 INSYDE VER
-- HDMI
-- 3 Port USB 3.0
+- Screeen size : 13.3 LED Full HD 1920x1080
+- Memory : RAM 12GB (4GB onboard + 8GB DDR4 2133 MHz)
+- Storage : SSD M2 128GB
+- BIOS : H20 INSYDE VER
+- Connection : HDMI, 3x USB 3.0, VGA, SD Card Reader
 - etc.
 
 Installed Mac OS 10.14.5 A.K.A MOJAVE 
@@ -37,3 +36,6 @@ What's Not Working and Not tested yet
 - Audio port 3.5mm ( not tested yet )
 - SDCard Reader
 - Fingerprint
+
+
+<URL>google.com</URL>
