@@ -11,7 +11,7 @@ Technical Specs :
 - Screeen size : 13.3 LED Full HD 1920x1080
 - Memory : RAM 12GB (4GB onboard + 8GB DDR4 2133 MHz)
 - Storage : SSD M2 128GB
-- BIOS : H20 INSYDE VER
+- BIOS : H20 INSYDE
 - Connection : HDMI, 3x USB 3.0, VGA, SD Card Reader
 - etc.
 
@@ -25,7 +25,7 @@ What's Working :
 - USB 3.0
 - Trackpad With gesture (for OC pull out all plugin of VoodooPS2Controller.kext and load it separately, begin with VoodooInput.kext)
 - Brightness (Patch SSDT-PNLF works with new buit WhateverGreen.kext)
-- HDMI Port
+- HDMI Vidoe and Audio Output
 - Shutdown / Restart / Sleep
 - Battery Status (VirtualSMC.kext & SMCBatteryManager.kext)
 - etc.
@@ -39,7 +39,7 @@ What's Not Working and Not tested yet
 
 EFI Folder :
 - EFI Clover <a href="https://drive.google.com/file/d/18GI8pdItJ82WrnPGolAdc3CToPBEJNst/view?usp=sharing">Download Here</a>
-- EFI OpenCore <a href="https://drive.google.com/drive/folders/1HFXfEa91fhfJVOTZZsFiPu1HcSVuuwDJ?usp=sharing">Download Here</a>
+- EFI OpenCore <a href="https://drive.google.com/drive/folders/1Um5Tvx7-ocBoKjW9J15zkgW2GJ80jqhI?usp=sharing">Download Here</a>
 
 References & Credits :
 
