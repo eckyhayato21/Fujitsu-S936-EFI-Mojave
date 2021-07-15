@@ -42,7 +42,9 @@ EFI Folder :
 - EFI OpenCore <a href="https://drive.google.com/drive/folders/1HFXfEa91fhfJVOTZZsFiPu1HcSVuuwDJ?usp=sharing">Download Here</a>
 
 References & Credits :
+
 - <a href="http://google.co.id">Your Master of Knowledge</a>
+- <a href="https://dortania.github.io/getting-started/">Dortania Github for Getting Sterted with OC Bootloader</a>
 - <a href="https://www.olarila.com/topic/5139-mojave-olarila/">OLARILA Images 10.14.5 mojave</a>
 - <a href="https://www.tonymacx86.com/threads/guide-laptop-backlight-control-using-applebacklightfixup-kext.218222/">SSDT patch for Brightness Fix by RehabMan</a>
 - <a href="https://github.com/acidanthera/AppleALC">AppleALC for audio fix by acidanthera</a>
