@@ -1,7 +1,7 @@
 # Fujitsu-S936-EFI-Mojave
 Here my EFI Configuration for
 
-FUJITSU S936 / M
+<h1>FUJITSU S936 / M</h1>
 
 Technical Specs :
 - Processor : Intel(R) Core(TM) i5 6300U @ 2.4Ghz
@@ -20,25 +20,26 @@ Installed Mac OS 10.14.5 A.K.A MOJAVE
 What's Working :
 - Native Power Management
 - Intel HD Gaphics 520 QE/CI
-- Wifi ( Aiportitlwm.kext used as plugin on IO8211Family.kext )
+- Wifi ( for Clover the Aiportitlwm.kext used as plugin on IO8211Family.kext, for OC simply put the Airportitlwm.kext on Kext Folder )
 - Bluetooth ( IntelBluetoothFirmware.kext & IntelBluetoothInjector.kext)
 - USB 3.0
-- Trackpad With gesture (VoodooPS2Controller.kext)
-- Brightness (Patch SSDT)
+- Trackpad With gesture (for OC pull out all plugin of VoodooPS2Controller.kext and load it separately, begin with VoodooInput.kext)
+- Brightness (Patch SSDT-PNLF works with new buit WhateverGreen.kext)
 - HDMI Port
 - Shutdown / Restart / Sleep
 - Battery Status (VirtualSMC.kext & SMCBatteryManager.kext)
 - etc.
 
 What's Not Working and Not tested yet
-- Airdrop ( not tested yet )
 - VGA Port ( not tested yet )
 - Audio port 3.5mm ( not tested yet )
+- Airdrop
 - SDCard Reader
 - Fingerprint
 
 EFI Folder :
-- <a href="https://drive.google.com/file/d/18GI8pdItJ82WrnPGolAdc3CToPBEJNst/view?usp=sharing">EFI Clover</a>
+- EFI Clover <a href="https://drive.google.com/file/d/18GI8pdItJ82WrnPGolAdc3CToPBEJNst/view?usp=sharing">Download Here</a>
+- EFI OpenCore <a href="https://drive.google.com/drive/folders/1HFXfEa91fhfJVOTZZsFiPu1HcSVuuwDJ?usp=sharing">Download Here</a>
 
 References & Credits :
 - <a href="http://google.co.id">Your Master of Knowledge</a>
