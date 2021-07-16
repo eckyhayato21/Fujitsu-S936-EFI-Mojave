@@ -1,19 +1,7 @@
 <!DOCTYPE html>
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
-</head>
-
 <body>
 
-<div class="jumbotron text-center">  
 <h1>Fujitsu-S936-EFI-Mojave</h1>
-</div>
   
   <h2>Technical Specs :</h2>
   
@@ -28,8 +16,8 @@
 - Connection : HDMI, 3x USB 3.0, VGA, SD Card Reader
 - etc.
 
-<img src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP777/mojave-roundel-240.png">
-<h1 style="text-align:center;">Installed Mac OS 10.14.5 a.k.a Mojave</h1> 
+<img style="text-align:center" src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP777/mojave-roundel-240.png">
+<h1>Installed Mac OS 10.14.5 a.k.a Mojave</h1> 
 
 <h2>What's Working :</h2>
 
