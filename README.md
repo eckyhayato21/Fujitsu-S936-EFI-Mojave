@@ -1,9 +1,7 @@
-<h1>Fujitsu-S936-EFI-Mojave</h1>
-Here my EFI Configuration for
-
-<h1>FUJITSU S936 / M</h1>
+<h1 style="text-align:center;">Fujitsu-S936-EFI-Mojave</h1>
 
 <h2>Technical Specs :</h2>
+
 - Processor : Intel(R) Core(TM) i5 6300U @ 2.4Ghz
 - iGPU : Intel HD Graphics 520
 - Wireless : Intel 8260
@@ -16,9 +14,10 @@ Here my EFI Configuration for
 - etc.
 
 <img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/Big-Sur/macos-big-sur-installer.jpg">
-<h1>Installed Mac OS 10.14.5 A.K.A MOJAVE</h1> 
+<h1 style="text-align:center;">Installed Mac OS 10.14.5 A.K.A MOJAVE</h1> 
 
 <h2>What's Working :</h2>
+
 - Native Power Management
 - Intel HD Gaphics 520 QE/CI
 - Wifi ( for Clover the Aiportitlwm.kext used as plugin on IO8211Family.kext, for OC simply put the Airportitlwm.kext on Kext Folder )
@@ -32,6 +31,7 @@ Here my EFI Configuration for
 - etc.
 
 <h2>What's Not Working and Not tested yet</h2>
+
 - VGA Port ( not tested yet )
 - Audio port 3.5mm ( not tested yet )
 - Airdrop
