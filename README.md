@@ -14,7 +14,7 @@
 - etc.
 
 <img src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP777/mojave-roundel-240.png">
-<h1 style="text-align:center;">Installed Mac OS 10.14.5 A.K.A Mojave</h1> 
+<h1 style="text-align:center;">Installed Mac OS 10.14.5 a.k.a Mojave</h1> 
 
 <h2>What's Working :</h2>
 
