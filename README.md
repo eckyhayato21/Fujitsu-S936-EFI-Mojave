@@ -1,7 +1,20 @@
-<h1 style="text-align:center;">Fujitsu-S936-EFI-Mojave</h1>
+<body>
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</head>
 
-<h2>Technical Specs :</h2>
-
+<div class="jumbotron text-center">  
+<h1>Fujitsu-S936-EFI-Mojave</h1>
+</div>
+  
+  <h2>Technical Specs :</h2>
+  
 - Processor : Intel(R) Core(TM) i5 6300U @ 2.4Ghz
 - iGPU : Intel HD Graphics 520
 - Wireless : Intel 8260
@@ -52,3 +65,5 @@ References & Credits :
 - <a href="https://openintelwireless.github.io/itlwm/Installation.html#airportitlwm">AirportItlwm for Intel Wireless (WIFI & Bluetooth) fix by OpenIntelWireless project</a>
 - <a href="https://github.com/acidanthera/VoodooPS2/releases">VoodooPS2Controller for Keyboard & Trackpad fix by acidanthera</a>
 - <a href="https://github.com/acidanthera/virtualsmc/releases">VirtualSMC by acidanthera</a> 
+
+</body>
