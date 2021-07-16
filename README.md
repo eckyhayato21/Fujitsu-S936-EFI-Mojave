@@ -13,8 +13,8 @@
 - Connection : HDMI, 3x USB 3.0, VGA, SD Card Reader
 - etc.
 
-<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/Big-Sur/macos-big-sur-installer.jpg">
-<h1 style="text-align:center;">Installed Mac OS 10.14.5 A.K.A MOJAVE</h1> 
+<img src="https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP777/mojave-roundel-240.png">
+<h1 style="text-align:center;">Installed Mac OS 10.14.5 A.K.A Mojave</h1> 
 
 <h2>What's Working :</h2>
 
