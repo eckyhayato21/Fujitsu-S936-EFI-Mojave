@@ -1,9 +1,9 @@
-# Fujitsu-S936-EFI-Mojave
+<h1>Fujitsu-S936-EFI-Mojave</h1>
 Here my EFI Configuration for
 
 <h1>FUJITSU S936 / M</h1>
 
-Technical Specs :
+<h2>Technical Specs :</h2>
 - Processor : Intel(R) Core(TM) i5 6300U @ 2.4Ghz
 - iGPU : Intel HD Graphics 520
 - Wireless : Intel 8260
@@ -15,22 +15,23 @@ Technical Specs :
 - Connection : HDMI, 3x USB 3.0, VGA, SD Card Reader
 - etc.
 
-Installed Mac OS 10.14.5 A.K.A MOJAVE 
+<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/macos/Big-Sur/macos-big-sur-installer.jpg">
+<h1>Installed Mac OS 10.14.5 A.K.A MOJAVE</h1> 
 
-What's Working :
+<h2>What's Working :</h2>
 - Native Power Management
 - Intel HD Gaphics 520 QE/CI
 - Wifi ( for Clover the Aiportitlwm.kext used as plugin on IO8211Family.kext, for OC simply put the Airportitlwm.kext on Kext Folder )
 - Bluetooth ( IntelBluetoothFirmware.kext & IntelBluetoothInjector.kext)
-- USB 3.0
+- USB 3.0 HSxx & SSxx
 - Trackpad With gesture (for OC pull out all plugin of VoodooPS2Controller.kext and load it separately, begin with VoodooInput.kext)
-- Brightness (Patch SSDT-PNLF works with new buit WhateverGreen.kext)
+- Brightness (Patch SSDT-PNLF works with new built WhateverGreen.kext)
 - HDMI Vidoe and Audio Output
 - Shutdown / Restart / Sleep
 - Battery Status (VirtualSMC.kext & SMCBatteryManager.kext)
 - etc.
 
-What's Not Working and Not tested yet
+<h2>What's Not Working and Not tested yet</h2>
 - VGA Port ( not tested yet )
 - Audio port 3.5mm ( not tested yet )
 - Airdrop
