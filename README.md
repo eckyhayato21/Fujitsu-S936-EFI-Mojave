@@ -39,7 +39,7 @@
 <p>- Audio port 3.5mm ( not tested yet )</p>
 <p>- Airdrop</p>
 <p>- SDCard Reader</p>
-<p>- Fingerprint</p>
+<p>- Fingerprint (disabled via BIOS)</p>
 
 <p>EFI Folder :</p>
 
